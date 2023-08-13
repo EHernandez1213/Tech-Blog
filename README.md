@@ -31,7 +31,7 @@
   ## Usage
 
   To use this page you should be able to create a user by filling out the signup form when clicking the sign up button. If you already made an account you can click the login and it should take you to the homepage. this however is not currently working.
-  Video Demonstration: https://drive.google.com/file/d/17isahU-qKdcwS7vmKRdGDzhvM-AoDtn6/view
+  
 
 
   ## Credits
